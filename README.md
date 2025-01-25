@@ -6,7 +6,7 @@
 # Why use LangGraph?
 - LangGraph provides fine-grained control over both the flow and state of your agent applications. It implements a central persistence layer, enabling features that are common to most agent architectures:
 
-#Memory: LangGraph persists arbitrary aspects of your application's state, supporting memory of conversations and other updates within and across user interactions;
+# Memory: LangGraph persists arbitrary aspects of your application's state, supporting memory of conversations and other updates within and across user interactions;
 Human-in-the-loop: Because state is checkpointed, execution can be interrupted and resumed, allowing for decisions, validation, and corrections at key stages via human input.
 Standardizing these components allows individuals and teams to focus on the behavior of their agent, instead of its supporting infrastructure.
 
