@@ -17,6 +17,6 @@ Standardizing these components allows individuals and teams to focus on the beha
 - To learn more about LangGraph, check out our first LangChain Academy course, Introduction to LangGraph, available for free here.
 
 # LangGraph Platform
-LangGraph Platform is infrastructure for deploying LangGraph agents. It is a commercial solution for deploying agentic applications to production, built on the open-source LangGraph framework. The LangGraph Platform consists of several components that work together to support the development, deployment, debugging, and monitoring of LangGraph applications: LangGraph Server (APIs), LangGraph SDKs (clients for the APIs), LangGraph CLI (command line tool for building the server), and LangGraph Studio (UI/debugger).
+LangGraph Platform is infrastructure for deploying LangGraph agents. It is a commercial solution for deploying agentic applications to production, built on the open-source LangGraph framework. (youtube.com/watch?v=lvQ96Ssesfk)The LangGraph Platform consists of several components that work together to support the development, deployment, debugging, and monitoring of LangGraph applications: LangGraph Server (APIs), LangGraph SDKs (clients for the APIs), LangGraph CLI (command line tool for building the server), and LangGraph Studio (UI/debugger).
 
 
